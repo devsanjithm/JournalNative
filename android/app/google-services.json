@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960190484251",
+    "project_id": "journal-f83aa",
+    "storage_bucket": "journal-f83aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960190484251:android:c3abd3063dbc8c7ca38dbe",
+        "android_client_info": {
+          "package_name": "com.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960190484251-cqg972c9eac38he8i8ktkq42iepiboph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnL7hTgxfxE6AATlqux96BZ23tCp99VMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960190484251-cqg972c9eac38he8i8ktkq42iepiboph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
